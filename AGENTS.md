@@ -6,3 +6,5 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 
 THIS PROMPT FOR OPEN AI
+
+Add algorithm to calculate multi dimentional arrays
