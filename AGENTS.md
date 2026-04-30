@@ -9,3 +9,4 @@ THIS PROMPT FOR OPEN AI
 
 - Add algorithm to calculate multi dimentional arrays
 - add dialog to propose details from catalogs products
+- Add feature authentication for signin and singup integrated with supabase
